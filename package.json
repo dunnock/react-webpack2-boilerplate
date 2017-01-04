@@ -13,6 +13,8 @@
   "license": "MIT",
   "repository": "dunnock/react-webpack2-boilerplate",
   "dependencies": {
+    "babel-core": "^6.21.0",
+    "eslint": "^3.12.2",
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
     "react-router": "^3.0.0"
